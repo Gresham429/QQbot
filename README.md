@@ -34,3 +34,10 @@ pip install -r requirements.txt
 
 1. 私聊：
 2. 群聊：
+
+
+
+## License
+MIT License
+See the [LICENSE](./LICENSE) file for details.
+
