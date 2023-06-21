@@ -16,7 +16,8 @@ git clone https://github.com/Gresham429/QQ_chat_bot.git
 pip install -r requirements.txt
 ```
 
-2. 配置config：打开config文件夹下的config.py，根据注释完成配置
+2. 配置config：打开config文件夹下的config.py，根据注释完成配置。
+3. 在根目录下创建两个文件夹：image（用于存放AI绘制的图片）、voice（用于存放语音回复合成的音频）
 
 #### 3.运行
 
