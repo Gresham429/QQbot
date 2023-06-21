@@ -12,7 +12,7 @@
 1. 安装项目以及python依赖包。
 
 ```shell
-
+git clone https://github.com/Gresham429/QQ_chat_bot.git
 pip install -r requirements.txt
 ```
 
